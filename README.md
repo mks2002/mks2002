@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Js frameworks, Docker.
 - 🚀 I'm looking for internships.
 - 💬 Ask me about Django and Reactjs.
-- 📫 linkedIn id : https://www.linkedin.com/in/mayuk-sarkar-088726210/ ..
 - ⚡ Fun fact -: I love to read books!!
 
 

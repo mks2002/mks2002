@@ -4,7 +4,7 @@
 
 
 
-- 👀 I’m interested in web development, open source contribution, learning new technologies, problem solving.
+- 👀 I’m interested in software development, Machine learning, Deep learning(computer vision, natural language processing), LLM and open source contribution, learning new technologies, problem solving.
 - 🌱 I’m currently learning Js frameworks, Docker.
 - 🚀 I'm looking for internships.
 - 💬 Ask me about Django and Reactjs.

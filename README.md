@@ -4,10 +4,11 @@
 
 
 
-- 👀 I’m interested in software development, Machine learning, Deep learning(computer vision, natural language processing), LLM and open source contribution, learning new technologies, problem solving.
-- 🌱 I’m currently learning Js frameworks, Docker.
+- 👀 I’m interested in software development, open source contribution, learning new technologies, problem solving.
+- 👀 Also interested in Machine learning, Deep learning(computer vision, natural language processing), Large language Models.
+- 🌱 I’m currently learning Js frameworks, NLTK, Langchain, Docker.
 - 🚀 I'm looking for internships.
-- 💬 Ask me about Django and Reactjs.
+- 💬 Ask me about Django, Reactjs and Tensorflow.
 - ⚡ Fun fact -: I love to read books!!
 
 

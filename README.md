@@ -3,6 +3,8 @@
 
 # 👋 Hi, I'm Mayuk Sarkar!  
 
+![Profile Views](https://komarev.com/ghpvc/?username=mks2002&color=blue&style=flat-square)
+
 🚀 **ML Engineer & Software Developer | Deep Learning | DARTS | Open Source Enthusiast**  
 
 🔹 **B.Tech in CSE** @ IIIT Jabalpur (2025)  

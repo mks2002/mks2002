@@ -1,16 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mayuk Sarkar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
 
+---
 
+# 👋 Hi, I'm Mayuk Sarkar!  
 
+🚀 **ML Engineer & Software Developer | Deep Learning | DARTS | Open Source Enthusiast**  
 
-- 👀 I’m interested in software development, open source contribution, learning new technologies, problem solving.
-- 👀 Also interested in Machine learning, Deep learning(computer vision, natural language processing), Large language Models.
-- 🌱 I’m currently learning Js frameworks, NLTK, Langchain, Docker.
-- 🚀 I'm looking for internships.
-- 💬 Ask me about Django, Reactjs and Tensorflow.
-- ⚡ Fun fact -: I love to read books!!
+🔹 **B.Tech in CSE** @ IIIT Jabalpur (2025)  
+🔹 **Research Intern @ TCS Innovation Lab** (DARTS, NAS, CNN)  
+🔹 **Machine Learning Intern @ SLDC Odisha** (LSTM, BiLSTM)  
+🔹 **SDE Intern @ Rework AI** (Django, React.js, API Optimization)  
 
+---
+
+## 🔥 About Me  
+- 🧠 **ML & DL**: Computer Vision, NLP, Large Language Models  
+- 💻 **Software Development**: Backend (Django, DRF), Frontend (React.js), Full-stack development  
+- 🚀 **Open Source Contributor** | **Problem Solver** (1000+ DSA Problems)  
+- 📚 **Learning**: JavaScript Frameworks, Langchain, Docker  
+- 💡 Ask me about **Django, TensorFlow, React.js, and Neural Architecture Search**  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages**: Python, C++, JavaScript, SQL, Bash  
+**ML/DL**: TensorFlow, Scikit-Learn, NLTK, PyTorch  
+**Web Development**: Django, DRF, React.js, Node.js, Express.js  
+**Databases**: MySQL, MongoDB  
+**Tools**: Git, Linux, Docker, Postman, Google Colab  
+
+---
+
+## 🚀 Projects  
+📌 **[Sentiment Analysis](https://github.com/mks2002/Sentiment-Analysis)** – **87.77% accuracy** with LSTM & GRU on IMDB dataset  
+📌 **[Parkinson’s Disease Prediction](https://github.com/mks2002/Parkinsons-Prediction)** – **87.17% accuracy** using Random Forest & SVM  
+📌 **[Shoppify](https://github.com/mks2002/Shoppify)** – **20% boost in engagement** using AJAX, Django ORM  
+📌 **[HotelHub](https://github.com/mks2002/Hotelhub)** – **Custom authentication & advanced search functionalities**  
+
+---
+
+## 📈 Achievements  
+🏆 **1000+ DSA Problems Solved** (LeetCode, Codeforces, GFG)  
+🏆 **Mentored junior devs**, enhancing IIIT-J Alumni Platform (2000+ users)  
+🏆 **Optimized NAS model by 15%** using **DARTS at TCS Innovation Lab**  
+
+---
+
+## 📫 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/mayuk-sarkar-088726210/)  
+💻 [GitHub](https://github.com/mks2002)  
+📧 mayuksarkar12345@gmail.com  
+
+---
 
 <!---
 mks2002/mks2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

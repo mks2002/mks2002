@@ -33,6 +33,7 @@
 ---
 
 ## 🚀 Projects  
+📌 **[Watermark Embedding & Extraction](https://github.com/mks2002/Reversible-Watermarking-Scheme)** – **72% accuracy** in Frequency domain for fragile watermarking.
 📌 **[Sentiment Analysis](https://github.com/mks2002/Sentiment-Analysis)** – **87.77% accuracy** with LSTM & GRU on IMDB dataset  
 📌 **[Parkinson’s Disease Prediction](https://github.com/mks2002/Parkinsons-Prediction)** – **87.17% accuracy** using Random Forest & SVM  
 📌 **[Shoppify](https://github.com/mks2002/Shoppify)** – **20% boost in engagement** using AJAX, Django ORM  

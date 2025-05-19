@@ -8,14 +8,14 @@
 🚀 **ML Engineer & Software Developer | Deep Learning | DARTS | Open Source Enthusiast**  
 
 🔹 **B.Tech in CSE** @ IIIT Jabalpur (2025)  
-🔹 **Research Intern @ TCS Innovation Lab** (DARTS, NAS, CNN)  
-🔹 **Machine Learning Intern @ SLDC Odisha** (LSTM, BiLSTM)  
+🔹 **Research Intern @ TCS Innovation Lab** (DARTS, NAS, CNN, DNN)  
+🔹 **Machine Learning Intern @ SLDC Odisha** (Time-Series, LSTM, BiLSTM)  
 🔹 **SDE Intern @ Rework AI** (Django, React.js, API Optimization)  
 
 ---
 
 ## 🔥 About Me  
-- 🧠 **ML & DL**: Computer Vision, NLP, Large Language Models  
+- 🧠 **ML & DL**: Computer Vision, NLP, Large Language Models, Financial Forcasting  
 - 💻 **Software Development**: Backend (Django, DRF), Frontend (React.js), Full-stack development  
 - 🚀 **Open Source Contributor** | **Problem Solver** (1000+ DSA Problems)  
 - 📚 **Learning**: JavaScript Frameworks, Langchain, Docker  

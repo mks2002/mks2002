@@ -33,7 +33,7 @@
 ---
 
 ## 🚀 Projects  
-📌 **[Power Consumption Forcasting](https://github.com/mks2002/NeuroWatts-Neural-Time-Series-for-Power-Consumption)** – **Time Series** with LSTM and different statistical methods␣␣
+📌 **[Power Consumption Forcasting](https://github.com/mks2002/NeuroWatts-Neural-Time-Series-for-Power-Consumption)** – **Time Series** with LSTM and different statistical methods  
 📌 **[Sentiment Analysis](https://github.com/mks2002/Sentiment-Analysis)** – **87.77% accuracy** with LSTM & GRU on IMDB dataset  
 📌 **[Parkinson’s Disease Prediction](https://github.com/mks2002/Parkinsons-Prediction)** – **87.17% accuracy** using Random Forest & SVM  
 📌 **[Watermark Embedding & Extraction](https://github.com/mks2002/Reversible-Watermarking-Scheme)** – **72% accuracy** in Frequency domain for fragile watermarking <br>
